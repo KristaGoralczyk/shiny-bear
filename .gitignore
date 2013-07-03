@@ -1,3 +1,10 @@
+# Ignore bundler config
+/.bundle
+
+# Ignore .idea
+/.idea
+/.DS_Store
+
 *.rbc
 *.sassc
 .sass-cache
