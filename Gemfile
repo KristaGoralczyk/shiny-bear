@@ -13,13 +13,11 @@ group :assets do
 end
 
 group :development do
-
+  gem 'better_errors'
 end
 
 group :staging, :production do
-
 end
 
 group :test do
-
 end
